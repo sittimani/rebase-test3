@@ -6,6 +6,6 @@ const object = {
     5 : 'featurec commit - 2',
     7 : 'feature e commit',
     6 : 'featured commit',
-    8 : 'featuref commit'
+    8 : 'featuref commit',
     9 : 'feature 9 added'
 }
