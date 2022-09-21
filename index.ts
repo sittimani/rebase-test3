@@ -7,4 +7,5 @@ const object = {
     7 : 'feature e commit',
     6 : 'featured commit',
     8 : 'featuref commit'
+    9 : 'feature 9 added'
 }
